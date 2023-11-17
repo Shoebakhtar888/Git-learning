@@ -4,4 +4,4 @@ git status
 git log --oneline
 git add file name 
 git commit -m "commit name "
-  
+git stash  
